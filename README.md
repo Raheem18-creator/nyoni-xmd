@@ -1,2 +1,2 @@
-# Maki-pair
-Maki-pair code
+# nyoni-pair
+Nyoni code
