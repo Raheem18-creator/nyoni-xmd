@@ -83,23 +83,22 @@ Thanks for using *Suho-XD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
-
+https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/NaCkS-ai/Sung-Suho-MD
+https://github.com/Raheem-cm/RAHEEM-XMD-3
 
 ——————
 
-> *© Powered by dev sung*
+> *© Powered by dev nyoni*
 Stay cool and hack smart. ✌🏻`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "suho-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
+title: "RAHEEM-XMD-3 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+sourceUrl: "https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -110,7 +109,7 @@ renderLargerThumbnail: true
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `*Hey there, MALVIN-XD User!* 👋🏻
 
-Thanks for using *Suho-XD* — your session has been successfully created!
+Thanks for using *RAHEEM-XMD-3* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -119,19 +118,18 @@ Thanks for using *Suho-XD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
-
+https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/NaCkS-ai/Sung-Suho-MD
+https://github.com/Raheem-cm/RAHEEM-XMD-3
 
-> *© Powered by Malvin King*
+> *© Powered by Nyoni-cm*
 Stay cool and hack smart. ✌🏻*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
+title: "RAHEEM-XMD-3 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 2,
