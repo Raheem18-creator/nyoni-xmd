@@ -1,1 +1,2 @@
-# nyoni-xmd
+# Maki-pair
+Maki-pair code
