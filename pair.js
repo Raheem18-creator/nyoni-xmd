@@ -97,11 +97,11 @@ Your *Makima Session* has been created successfully.
 
 *📢 Join the Command:*  
 Follow Makima’s directives here:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A  
+https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n  
 
 *🌀 Source Code:*  
 Explore and modify your own path:  
-https://github.com/NaCkS-ai/Drakonis-MD  
+https://github.com/Raheem-cm/RAHEEM-XMD-3  
 
 ——————  
 
@@ -114,7 +114,7 @@ Stay sharp, stay obedient. 👁️`;
                                 externalAdReply: {
                                     title: "🩸 Makima — Official Pair",
                                     thumbnailUrl: "https://files.catbox.moe/x8vle8.jpg",
-                                    sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+                                    sourceUrl: "https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n",
                                     mediaType: 1,
                                     renderLargerThumbnail: true
                                 }
@@ -134,11 +134,10 @@ Your *Makima Session* has been created, despite minor issues.
 
 *📢 Join the Command:*  
 Follow Makima’s directives here:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A  
-
+https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n
 *🌀 Source Code:*  
 Explore and modify your own path:  
-https://github.com/NaCkS-ai/Drakonis-MD  
+https://github.com/Raheem-cm/RAHEEM-XMD-3  
 
 ——————  
 
@@ -151,7 +150,7 @@ Stay sharp, stay obedient. 👁️`;
                                 externalAdReply: {
                                     title: "🩸 Makima — Official Pair",
                                     thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
-                                    sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+                                    sourceUrl: "https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n",
                                     mediaType: 2,
                                     renderLargerThumbnail: true,
                                     showAdAttribution: true
