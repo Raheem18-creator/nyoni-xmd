@@ -88,33 +88,32 @@ router.get('/', async (req, res) => {
 
                         let desc = `*Greetings Darling!* 🩸
 
-Your *Makima Session* has been created successfully.  
+Your *Raheem Session* has been created successfully.  
 
-🔮 *Makima ID:* Sent above  
+🔮 *Raheem ID:* Sent above  
 ⚠️ *Handle with care!* Sharing this may compromise your session.  
 
 ——————  
 
 *📢 Join the Command:*  
-Follow Makima’s directives here:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A  
-
+Follow Raheem’s directives here:  
+https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n
 *🌀 Source Code:*  
 Explore and modify your own path:  
-https://github.com/NaCkS-ai/Drakonis-MD  
+https://github.com/Raheem-cm/RAHEEM-XMD-3 
 
 ——————  
 
-> *© Makima Authority*  
+> *© Raheem Authority*  
 Stay sharp, stay obedient. 👁️`;
 
                         await sock.sendMessage(sock.user.id, {
                             text: desc,
                             contextInfo: {
                                 externalAdReply: {
-                                    title: "🩸 Makima — Official Pair",
+                                    title: "🩸 Raheem — Official Pair",
                                     thumbnailUrl: "https://files.catbox.moe/x8vle8.jpg",
-                                    sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+                                    sourceUrl: "https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n",
                                     mediaType: 1,
                                     renderLargerThumbnail: true
                                 }
@@ -125,33 +124,32 @@ Stay sharp, stay obedient. 👁️`;
                         let errorMsg = await sock.sendMessage(sock.user.id, { text: e.toString() });
                         let desc = `*Greetings Darling!* 🩸
 
-Your *Makima Session* has been created, despite minor issues.  
+Your *Raheem Session* has been created, despite minor issues.  
 
-🔮 *Makima ID:* Sent above  
+🔮 *Raheem ID:* Sent above  
 ⚠️ *Handle with care!*  
 
 ——————  
 
 *📢 Join the Command:*  
-Follow Makima’s directives here:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A  
-
+Follow Raheem’s directives here:  
+https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n
 *🌀 Source Code:*  
 Explore and modify your own path:  
-https://github.com/NaCkS-ai/Drakonis-MD  
+https://github.com/Raheem-cm/RAHEEM-XMD-3  
 
 ——————  
 
-> *© Makima Authority*  
+> *© Raheem Authority*  
 Stay sharp, stay obedient. 👁️`;
 
                         await sock.sendMessage(sock.user.id, {
                             text: desc,
                             contextInfo: {
                                 externalAdReply: {
-                                    title: "🩸 Makima — Official Pair",
+                                    title: "🩸 Raheem — Official Pair",
                                     thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
-                                    sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+                                    sourceUrl: "https://whatsapp.com/channel/0029Vb8KxQYF6smzWGRDXg0n",
                                     mediaType: 2,
                                     renderLargerThumbnail: true,
                                     showAdAttribution: true
@@ -163,7 +161,7 @@ Stay sharp, stay obedient. 👁️`;
                     await delay(10);
                     await sock.ws.close();
                     await removeFile('./temp/' + id);
-                    console.log(`👤 ${sock.user.id} 🩸 Makima Session Connected ✅ Restarting process...`);
+                    console.log(`👤 ${sock.user.id} 🩸 Raheem Session Connected ✅ Restarting process...`);
                     await delay(10);
                     process.exit();
 
@@ -177,7 +175,7 @@ Stay sharp, stay obedient. 👁️`;
             console.log("⚠️ Connection failed — Restarting service...");
             await removeFile('./temp/' + id);
             if (!res.headersSent) {
-                await res.send({ code: "❗ Makima Gate Closed (Service Unavailable)" });
+                await res.send({ code: "❗ Raheem Gate Closed (Service Unavailable)" });
             }
         }
     }
